@@ -1,0 +1,6 @@
+name: BottleXP
+main: fr.nkri.bootlexp.MBottleXp
+version: 1.0
+author: NKRI
+commands:
+  bootlexp:
